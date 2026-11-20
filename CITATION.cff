@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: Use this citation for the collection of labs. Individual exercises retain
+  their source credits.
+type: software
+title: Applied Python and Machine Learning Labs
+authors:
+- family-names: Edupalli
+  given-names: Pardha Saradhi
+  affiliation: University of Cincinnati
+  website: https://github.com/Pardhu0911
+repository-code: https://github.com/Pardhu0911/applied-python-and-ml
+url: https://github.com/Pardhu0911/applied-python-and-ml
